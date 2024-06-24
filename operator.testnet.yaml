@@ -1,11 +1,11 @@
 operator:
-    address: 0xAa280FdB50391Fb63458FeE1b484BE2f36cE990b
-    earnings_receiver_address: 0x68b44Ea0b78afF90E328406768beDcd387000d31
-    delegation_approver_address: "0x0000000000000000000000000000000000000000"
-    staker_opt_out_window_blocks: 0
-    metadata_url: "https://raw.githubusercontent.com/Hmac512/eigenpod/main/metadata.json?"
+  address: 0x9858696a27983713d6ea204b8bc2ecefe5549eff
+  earnings_receiver_address: 0xa53A6fE2d8Ad977aD926C485343Ba39f32D3A3F6
+  delegation_approver_address: "0x0000000000000000000000000000000000000000"
+  staker_opt_out_window_blocks: 0
+  metadata_url: "https://raw.githubusercontent.com/0xwildhare/eigenpod/main/metadata.json?"
 el_delegation_manager_address: 0x39053D51B77DC0d36036Fc1fCc8Cb819df8Ef37A
 eth_rpc_url: https://ethereum-holesky-rpc.publicnode.com
-private_key_store_path: /home/ubuntu/.eigenlayer/operator_keys/mainKeyECDSA.ecdsa.key.json
+private_key_store_path: /home/steve-opacity/.eigenlayer/operator_keys/opacity.ecdsa.key.js
 signer_type: local_keystore
 chain_id: 17000
